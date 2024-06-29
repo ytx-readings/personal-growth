@@ -7,6 +7,7 @@
 ## [Metacognition](./books/metacognition/)
 
 * _Foundations of Metacognition_ ([PDF](./books/metacognition/Foundations%20of%20Metacognition%20(Michael%20J.%20Beran,%20Johannes%20Brandl,%20Josef%20Perner%20etc.)%20(Z-Library).pdf))
+* _Meta-cognition: a recent review of research, theory, and perspectives_ ([PDF](./books/metacognition/Meta-cognition%20%20a%20recent%20review%20of%20research,%20theory,%20and%20perspectives%20(Shaughnessy,%20Michael%20F.%20Kleyn-Kennedy%20etc.)%20(Z-Library).pdf))
 * _Metacognition in Young Children_ ([PDF](./books/metacognition/Metacognition%20in%20Young%20Children%20(Shirley%20Larkin)%20(Z-Library).pdf))
 * _Metacognition: Knowing about Knowing_ ([PDF](./books/metacognition/Metacognition%20Knowing%20about%20Knowing%20(Janet%20Metcalfe,%20Arthur%20P.%20Shimamura)%20(Z-Library).pdf))
 * _Metacognition, Strategy Use, and Instruction_ ([PDF](./books/metacognition/Metacognition,%20Strategy%20Use,%20and%20Instruction%20(Harriet%20Salatas%20Waters%20PhD%20etc.)%20(Z-Library).pdf))
