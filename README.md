@@ -6,6 +6,7 @@
 
 ## [Metacognition](./books/metacognition/)
 
+* _Evolution and the Human Mind: Modularity, Language and Meta-Cognition_ ([PDF](./books/metacognition/Evolution%20and%20the%20Human%20Mind%20Modularity,%20Language%20and%20Meta-Cognition%20(Peter%20Carruthers,%20Andrew%20Chamberlain)%20(Z-Library).pdf))
 * _Foundations of Metacognition_ ([PDF](./books/metacognition/Foundations%20of%20Metacognition%20(Michael%20J.%20Beran,%20Johannes%20Brandl,%20Josef%20Perner%20etc.)%20(Z-Library).pdf))
 * _Meta-cognition: a recent review of research, theory, and perspectives_ ([PDF](./books/metacognition/Meta-cognition%20%20a%20recent%20review%20of%20research,%20theory,%20and%20perspectives%20(Shaughnessy,%20Michael%20F.%20Kleyn-Kennedy%20etc.)%20(Z-Library).pdf))
 * _Metacognition in Young Children_ ([PDF](./books/metacognition/Metacognition%20in%20Young%20Children%20(Shirley%20Larkin)%20(Z-Library).pdf))
