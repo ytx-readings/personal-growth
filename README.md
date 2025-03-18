@@ -5,6 +5,7 @@
 * _Beyond Feelings: A Guide to Critical Thinking_ ([PDF](./books/Beyond%20Feelings%20A%20Guide%20to%20Critical%20Thinking%20(Vincent%20Ruggiero)%20(Z-Library).pdf))
 * _Clear Thinking_ ([EPUB](./books/dokumen.pub_clear-thinking-turning-ordinary-moments-into-extraordinary-results-9780593086117-9780593086124-9780593716212.epub), [PDF](./books/ClearThinking.pdf))
 * _Overthinking_ ([EPUB](./books/Overthinking%20How%20to%20Declutter%20and%20Unfuk%20Your%20Mind,%20Build%20Mental%20Toughness,%20Discover%20Fast%20Success%20Habits,%20Thinking%20...%20(Robert%20Leary)%20(Z-Library).epub))
+* _The Geography of Thought_ ([PDF](./books/The%20Geography%20of%20Thought%20How%20Asians%20and%20Westerners%20Think%20Differently...and%20Why%20(Richard%20Nisbett)%20(Z-Library).pdf))
 * _Thinking: Fast and Slow_ ([AZW3](./books/Thinking,%20Fast%20and%20Slow/Thinking,%20Fast%20and%20Slow%20(Daniel%20Kahneman)%20(Z-Library).azw3), [EPUB](./books/Thinking,%20Fast%20and%20Slow/Thinking,%20Fast%20and%20Slow%20(Daniel%20Kahneman)%20(Z-Library).epub), [MOBI](./books/Thinking,%20Fast%20and%20Slow/Thinking,%20Fast%20and%20Slow%20(Daniel%20Kahneman)%20(Z-Library).mobi))
 
 ## [Metacognition](./books/metacognition/)
