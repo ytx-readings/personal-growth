@@ -6,6 +6,8 @@
 * _Rich Habits_ ([EPUB](./books/habits/dokumen.pub_rich-habits-the-daily-success-habits-of-wealthy-individuals-978-1-62652-746-1.epub), [PDF](./books/habits/Rich%20Habits%20-%20The%20Daily%20Success%20Habits%20of%20Wealthy%20Individuals%20-%20PDF%20Room.pdf))
 * [_The Now Habit_](./books/habits/The%20Now%20Habit%20A%20Strategic%20Program%20for%20Overcoming%20Procrastination%20and%20Enjoying%20Guilt-Free%20Play%20(Neil%20Fiore)%20(Z-Library).epub)
 * [_The Power of Habit_](./books/habits/Charles-Duhigg.The-Power-of-Habit.pdf)
+* _The Seven Habits of Highly Effective People_ ([EPUB](./books/habits/Seven%20Habits%20of%20Highly%20Effective%20People%20(Covey,%20Stephen%20R)%20(Z-Library).epub), [PDF](./books/habits/The%20Seven%20Habits%20of%20Highly%20Effective%20People%20Restoring%20the%20Character%20Ethic%20(Stephen%20R.%20Covey)%20(Z-Library).pdf))
+    * [30th Anniversary Edition](./books/habits/ebin.pub_the-7-habits-of-highly-effective-people-30th-anniversary-edition-9781982143817-9781982137274.epub)
 
 ## [Thinking](./books/thinking/)
 
