@@ -1,5 +1,12 @@
 # Personal Growth books
 
+## [Habits](./books/habits/)
+
+* [_Atomic  Habits_](./books/habits/Atomic_Habits_Tiny_Changes_Remarkable_Results_by_James_Clear.epub)
+* _Rich Habits_ ([EPUB](./books/habits/dokumen.pub_rich-habits-the-daily-success-habits-of-wealthy-individuals-978-1-62652-746-1.epub), [PDF](./books/habits/Rich%20Habits%20-%20The%20Daily%20Success%20Habits%20of%20Wealthy%20Individuals%20-%20PDF%20Room.pdf))
+* [_The Now Habit_](./books/habits/The%20Now%20Habit%20A%20Strategic%20Program%20for%20Overcoming%20Procrastination%20and%20Enjoying%20Guilt-Free%20Play%20(Neil%20Fiore)%20(Z-Library).epub)
+* [_The Power of Habit_](./books/habits/Charles-Duhigg.The-Power-of-Habit.pdf)
+
 ## [Thinking](./books/thinking/)
 
 * _Asking the Right Questions: A Guide to Critical Thinking_ ([PDF](./books/thinking/Asking%20the%20Right%20Questions%20A%20Guide%20to%20Critical%20Thinking%20(M.%20Neil%20Browne,%20Stuart%20M.%20Keeley)%20(Z-Library).pdf))
