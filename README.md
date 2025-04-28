@@ -10,6 +10,11 @@
 * _The Seven Habits of Highly Effective People_ ([EPUB](./books/habits/Seven%20Habits%20of%20Highly%20Effective%20People%20(Covey,%20Stephen%20R)%20(Z-Library).epub), [PDF](./books/habits/The%20Seven%20Habits%20of%20Highly%20Effective%20People%20Restoring%20the%20Character%20Ethic%20(Stephen%20R.%20Covey)%20(Z-Library).pdf))
     * [30th Anniversary Edition](./books/habits/ebin.pub_the-7-habits-of-highly-effective-people-30th-anniversary-edition-9781982143817-9781982137274.epub)
 
+## [Mental Health](./books/mental-health/)
+
+* [_The 5 Second Rule_](./books/mental-health/The%205%20Second%20Rule%20Transform%20your%20Life,%20Work,%20and%20Confidence%20with%20Everyday%20Courage%20(Mel%20Robbins)%20(Z-Library).epub)
+* [_Why Has Nobody Told Me This Before_](./books/mental-health/Why%20Has%20Nobody%20Told%20Me%20This%20Before%20(Dr.%20Julie%20Smith)%20(Z-Library).epub)
+
 ## [Thinking](./books/thinking/)
 
 * _Asking the Right Questions: A Guide to Critical Thinking_ ([PDF](./books/thinking/Asking%20the%20Right%20Questions%20A%20Guide%20to%20Critical%20Thinking%20(M.%20Neil%20Browne,%20Stuart%20M.%20Keeley)%20(Z-Library).pdf))
